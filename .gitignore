@@ -1,0 +1,48 @@
+# Unity generated files
+Library/
+Temp/
+Obj/
+Bin/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / MonoDevelop generated files
+*.csproj
+*.unityproj
+*.sln
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build files
+Build/
+
+# Package files
+Packages/
+
+# Local History for Visual Studio
+.vscode/
+.vs/
+
+# Git hooks
+.git/hooks/
+
+# Logs
+Logs/
+
+# Game Framework generated files
+GameFramework/Logs/
+
+# Custom ignore patterns
+*.meta.backup
+*.prefab.backup
